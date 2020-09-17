@@ -1,0 +1,8 @@
+org\academiadecodigo\pand\services\UserService.class
+org\academiadecodigo\pand\controllers\RestProductController.class
+org\academiadecodigo\pand\model\User.class
+org\academiadecodigo\pand\ProductsInfo.class
+org\academiadecodigo\pand\controllers\RestUserController.class
+org\academiadecodigo\pand\App.class
+org\academiadecodigo\pand\services\ProductService.class
+org\academiadecodigo\pand\model\Product.class
